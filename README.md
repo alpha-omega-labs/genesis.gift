@@ -26,9 +26,13 @@ genesis.gift_split_6 - even</br>
 genesis.gift_split_7 - odd</br>
 genesis.gift_split_8 - even</br>
 
-Community call block height number in the future in Cosmoshub for blockhash, first number in blockhash determine round "winning" split set:
+Community call block height number in the future in Cosmoshub for blockhash, first number in blockhash determine round "winning" split set:</br>
 split_1, split_3, split_5, split_7 OR</br>
 split_2,split_4,split_6,split_8
+
+For example if the block number would be: 3BDDB848E8171C8BA0EE940D4D92A3ACD6427B1E0EAEFF35FBCECFAA46AB1506</br>
+First number in block hash is "3" => odd snapshots would enter Round #2:</br>
+split_1, split_3, split_5, split_7
 
 <h3>Game round II</h3>
 to be continued ...
