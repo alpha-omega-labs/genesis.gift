@@ -37,6 +37,11 @@ split_1, split_3, split_5, split_7
 
 Block height for Round 1 of the Genesis Game is <strong>10598514</strong>
 
+Block 10599399 hash in Cosmos blockchain: CEE6B34BAFB3E00FC3CB1841E73B5ED096265F43A8BC6748DF63FEE906BE18F8
+First number from start is "6" - even
+Round 1 of Genesis Game #2 winning splits:
+split_2,split_4,split_6,split_8
+
 <h3>Game round II</h3>
 to be continued ...
  
