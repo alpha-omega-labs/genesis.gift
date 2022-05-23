@@ -35,6 +35,8 @@ For example if the block number would be: 3BDDB848E8171C8BA0EE940D4D92A3ACD6427B
 First number in block hash is "3" => odd snapshots would enter Round #2:</br>
 split_1, split_3, split_5, split_7
 
+Block height for Round 1 of the Genesis Game is <strong>10598514</strong>
+
 <h3>Game round II</h3>
 to be continued ...
  
