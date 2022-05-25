@@ -54,7 +54,18 @@ split_4 - 2
 split_6 - 3 
 split_8 - 4
 
-Block in Osmosis blockchain: 
+Block in Osmosis blockchain: 4528286 F16D6FD047B13F6CEB764B4E71859AD128A307ACB4CF665837DD39FA867DE5C6
+
+Round II winner split:
+
+split_2 - 1 
+
+split_6 - 3
  
 
+
+<h3>Game round III</h3>
+split_2 - 1 
+
+split_6 - 2
 
