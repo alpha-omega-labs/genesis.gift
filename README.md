@@ -43,7 +43,18 @@ Round 1 of Genesis Game #2 winning splits:
 split_2,split_4,split_6,split_8
 
 <h3>Game round II</h3>
-to be continued ...
+
+Round 1 winner split:
+split_2,split_4,split_6,split_8
+
+For round II:
+
+split_2 - 1
+split_4 - 2
+split_6 - 3 
+split_8 - 4
+
+Block in Osmosis blockchain: 
  
 
 
