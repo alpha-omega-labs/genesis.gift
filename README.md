@@ -1,4 +1,11 @@
 <h1>genesis.gift</h1>
+<h2>What is genesis.gift?</h2>
+GenesisL1 is a Layer1 users powered blockchain project related to digital Art in a form of NFT and Science, mostly in a form of bioinformatics. All GenesisL1 supply needed for gas to power smart contracts and for Tendermint consensus work gifted valueless to blockchain communities: EVM communities related to Art and other related EVM community members, and <strong>Cosmos community</strong>, and on chain GenesisL1 community_pool. <strong>GenesisL1 is not related to money, currency, value transfer, finance, defi. L1 COIN/TOKEN IS NOT AN INVESTMENT ASSET!</strong> It may be obtained as a gift from community_pool and community members to utilize it in NFT creation and Scientific research. 
+
+L1 coin/token gives users, creators and researchers ability to operate in efficient web3 environment for creation and use of decentralized applications.
+GenesisL1 gift is a set of multisend bulk transactions of L1 coin/token in GenesisL1 blockchain to Cosmos community addresses converted to EIP-55 format.  genesis.gift gives ability to utilize L1 coins in GenesisL1 blockchain by powering smart contracts and dapps and participating in democratic and environment friendly Tendermint consensus.   
+<strong>It may be used or not used. IT IS STRONGLY RECOMMENDED THAT USERS USE OWN NODES RPC ENDPOINTS OR OWN COMMUNITY ENDPOINT FOR INTERACTION WITH GENESISL1 BLOCKCHAIN! CONNECT YOUR SOFTWARE TO YOUR OWN BUILD NODES!</strong>
+
 
 <h2>Cosmoshub-4 height 10506647 snapshot</h2>
 <strong>exportFinal.json</strong> - snapshot of cosmoshub-4 at height 10506647, upon the full moon on May 16 2022, for genesis.gift </br>
@@ -7,6 +14,7 @@
 <strong>genesis.gift_split_(1-8)_eip-55.txt</strong> - unique cosmoshub-4 delegators addresses on 10506647 height split to 8 parts for the genesis.gift game converted to EIP-55 format.
 
 <h2>genesis.game rules</h2>
+Is a game for fun where community members say numbers of block heights and average block height blockhash is taken to have odd or even number for a round (in 3 different blockchains). At the end all recieve 5 
 There are 425772 unique cosmoshub-4 delegators addresses on block height 10506647.</br>
 Split 1-7 have 53221 addresses in each</br>
 Split 8 has 53225 addresses in it</br>
@@ -44,7 +52,7 @@ split_2,split_4,split_6,split_8
 
 <h3>Game round II</h3>
 
-Round 1 winner split:
+Round 1 "winner" split:
 split_2,split_4,split_6,split_8
 
 For round II:
@@ -56,7 +64,7 @@ split_8 - 4
 
 Block in Osmosis blockchain: 4528286 F16D6FD047B13F6CEB764B4E71859AD128A307ACB4CF665837DD39FA867DE5C6
 
-Round II winner split:
+Round II "winner" split:
 
 split_2 - 1 
 
@@ -65,6 +73,9 @@ split_6 - 3
 
 
 <h3>Game round III</h3>
+
+Block in GenesisL1 blockchain:
+
 split_2 - 1 
 
 split_6 - 2
